@@ -1,0 +1,22 @@
+//Reference file
+/*
+https://electronics.stackexchange.com/questions/284551/use-mobile-to-power-external-ledbulb-via-a-micro-usb-port
+https://stackoverflow.com/questions/14151077/android-usb-otg-programmatically-turn-off-power-to-the-port
+https://stackoverflow.com/questions/58248277/how-to-specify-a-port-number-while-running-flutter-web
+https://stackoverflow.com/questions/14690157/turn-off-power-to-usb-port-programmatically
+https://electronics.stackexchange.com/questions/284551/use-mobile-to-power-external-ledbulb-via-a-micro-usb-port
+https://stackoverflow.com/questions/53292248/communication-usb-device-in-flutter
+https://www.quora.com/Can-a-mobile-phones-USB-port-be-used-as-a-power-source
+https://pub.dev/packages/usb_serial
+https://developer.android.com/guide/topics/connectivity/usb/host
+https://stackoverflow.com/questions/62345169/using-android-hardware-usb-in-flutter-application
+https://pub.dev/packages/flutter_android
+https://stackoverflow.com/questions/53292248/communication-usb-device-in-flutter
+https://christianfindlay.com/2020/10/09/usb-flutter-dotnet/
+https://github.com/MelbourneDeveloper/Device.Net/tree/develop/src/Samples/Flutnet
+https://pub.dev/documentation/flutter_thermometer/latest/
+https://docs.flutter.dev/development/platform-integration/platform-channels?tab=type-mappings-kotlin-tab#example-calling-platform-specific-ios-and-android-code-using-platform-channels
+https://github.com/MelbourneDeveloper/Device.Net
+usb manager
+id01 port
+*/
